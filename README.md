@@ -82,6 +82,8 @@ Yolos 30% Pruned | 0.936 | 0.729 | 0.882|0.878 | 125.3 ms|2.7 ms |
 
 
 ## Authors
-
 - [Kanak Manjari](@KM5723@bennett.edu.in)
-
+- [Karan Singh](https://github.com/K-prog)
+- [Madhushi Verma](@KM5723@bennett.edu.in)
+- [Gaurav Singal](www.gauravsingal.in)
+- [Swagtham das]
