@@ -85,5 +85,5 @@ Yolos 30% Pruned | 0.936 | 0.729 | 0.882|0.878 | 125.3 ms|2.7 ms |
 - [Kanak Manjari](https://github.com/kmanjari)
 - [Karan Singh](https://github.com/K-prog)
 - [Madhushi Verma](https://github.com/vermam1234)
-- [Gaurav Singal](www.gauravsingal.in)
+- [Gaurav Singal](https://github.com/Gauravsingal)
 - Swagtham Das
