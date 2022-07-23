@@ -1,5 +1,6 @@
 
-# A Trimmed YOLO Model for Path Texture Detection to help Visually Impaired
+# QYOLO: A Quantized YOLO Model for Path Texture Detection to help the Visually Impaired
+
 
 Owing to the lack of sufficient standard path texture datasets, its detection is still a topic that has not received much attention. The majority of research has been focused on identifying the textures of objects like stone, wood, paper, and brick, but has disregarded the necessity of identifying different path textures. The partially sighted, must be able to identify the kind and textures of the route for their wellbeing. We have created models that can analyse and identify a variety of path textures, including broken, cemented, concrete, foot, grassy, muddy, paved, and tiled paths. The state of the art Yolov5 model, which runs on DarkNet-53, and its variants (Yolov5l and Yolov5s), are the foundation of the suggested model. To decrease the parameters, as  the model will be deployed on devices with limited resources, model pruning and model quantization have both been tested. For the experiments, a bespoke dataset with 8 classes and a sample collection of 24,000 pictures was used. The research findings and outcomes show that the suggested model is a simple model with good real-time path texture detection and recognition correctness.
 
