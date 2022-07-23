@@ -1,25 +1,7 @@
 
 # A Trimmed YOLO Model for Path Texture Detection to help Visually Impaired
 
-Path texture detection is still a less explored area due
-to the lack of sufficient standard path texture datasets. Most of
-the works have been done to recognize the texture of materials
-such as stone, wood, paper, brick etc and overlooked the need for
-detection and recognition of various path textures. Apart from the
-sighted persons, the visually impaired need to recognize the
-type and textures of the path for their safety. We have developed models to detect and recognize various
-path textures such as Broken Path, Cemented Path, Concrete
-Path, Foot Path, Grassy Path, Muddy Path, Pavement, and Tiled
-Path. The proposed model relies on the Yolov5 model that works
-on DarkNet-53, and its different variations such as Yolov5l and
-Yolov5s. The model pruning, as well as model quantization, have
-been experimented with to reduce the dimensions
-of the model for deployment on resource-constrained devices. A
-custom-built dataset of 8 classes having a sample set of 24,000
-images has been used for the experimentations. The findings and
-results indicate that the proposed model is a lightweight model
-with good accuracy in detecting and recognizing path textures
-in real-time.
+Owing to the lack of sufficient standard path texture datasets, its detection is still a topic that has not received much attention. The majority of research has been focused on identifying the textures of objects like stone, wood, paper, and brick, but has disregarded the necessity of identifying different path textures. The partially sighted, must be able to identify the kind and textures of the route for their wellbeing. We have created models that can analyse and identify a variety of path textures, including broken, cemented, concrete, foot, grassy, muddy, paved, and tiled paths. The state of the art Yolov5 model, which runs on DarkNet-53, and its variants (Yolov5l and Yolov5s), are the foundation of the suggested model. To decrease the parameters, as  the model will be deployed on devices with limited resources, model pruning and model quantization have both been tested. For the experiments, a bespoke dataset with 8 classes and a sample collection of 24,000 pictures was used. The research findings and outcomes show that the suggested model is a simple model with good real-time path texture detection and recognition correctness.
 
 
 ## Sample Images
